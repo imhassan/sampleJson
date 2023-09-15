@@ -1,0 +1,80 @@
+{
+  "tree": [
+    {
+      "Item_type": "link",
+      "order": 1,
+      "collapsible": true,
+      "start_collapsed": true,
+      "Workflow_step_id": "4635hfghdj4763743j221",
+      "link-text": "orders",
+      "link-icon": "orders",
+      "tree": [
+        {
+          "Item_type": "link",
+          "order": 1,
+          "collapsible": false,
+          "start_collapsed": false,
+          "Workflow_step_id": "4635hfghdj4763743j222",
+          "link-text": "list orders",
+          "link-icon": "list"
+        },
+        {
+          "Item_type": "link",
+          "order": 2,
+          "collapsible": false,
+          "start_collapsed": false,
+          "Workflow_step_id": "4635hfghdj4763743j223",
+          "link-text": "add orders",
+          "link-icon": "add"
+        },
+        {
+          "Item_type": "link",
+          "order": 3,
+          "collapsible": false,
+          "start_collapsed": false,
+          "Workflow_step_id": "4635hfghdj4763743j224",
+          "link-text": "edit orders",
+          "link-icon": "edit"
+        }
+      ]
+    },
+    {
+      "Item_type": "link",
+      "order": 2,
+      "collapsible": true,
+      "start_collapsed": true,
+      "Workflow_step_id": "4635hfghdj4763743j331",
+      "link-text": "ship status",
+      "link-icon": "ship",
+      "tree": [
+        {
+          "Item_type": "link",
+          "order": 1,
+          "collapsible": false,
+          "start_collapsed": false,
+          "Workflow_step_id": "4635hfghdj4763744j332",
+          "link-text": "list ship status",
+          "link-icon": "list"
+        },
+        {
+          "Item_type": "link",
+          "order": 2,
+          "collapsible": false,
+          "start_collapsed": false,
+          "Workflow_step_id": "4635hfghdj4763744j333",
+          "link-text": "add ship status",
+          "link-icon": "add"
+        },
+        {
+          "Item_type": "link",
+          "order": 3,
+          "collapsible": false,
+          "start_collapsed": false,
+          "Workflow_step_id": "4635hfghdj4763744j334",
+          "link-text": "edit ship status",
+          "link-icon": "edit"
+        }
+      ]
+    }
+  ]
+}
